@@ -7,8 +7,8 @@ create_table()
 
 # Page configuration
 st.set_page_config(
-    page_title="Facial Emotion Detector",
-    page_icon="😊",
+    page_title="Image Emotion Detector",
+    page_icon="😀",
     layout="centered",
 )
 

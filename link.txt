@@ -1,2 +1,2 @@
-https://imagedetector-5cey3quxjkkdawrj95ub45.streamlit.app/
-https://github.com/akinojofemi-star/image_detector
+
+https://github.com/banderasa/Emotion_detector
